@@ -9,7 +9,8 @@ print("""
       """)
 
 apodo = input("Ingrese su apodo: ")
-
+#esto escribi yo -Ale
+print("Hola gabi")
 # Conectamos al servidor
 cliente = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 try:
